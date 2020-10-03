@@ -9,7 +9,7 @@ a {
 }
 
 .masthead {
-  background-image: radial-gradient(circle, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 1.0)), url('trump_action.png');
+  background-image: radial-gradient(circle, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 1.0)), url('trump_action.webp');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
